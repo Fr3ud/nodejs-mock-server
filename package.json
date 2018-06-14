@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-mock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "echo \"Start!\" && node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fr3ud/nodejs-mock-server.git"
+  },
+  "author": "Fr3ud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fr3ud/nodejs-mock-server/issues"
+  },
+  "homepage": "https://github.com/Fr3ud/nodejs-mock-server#readme",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
