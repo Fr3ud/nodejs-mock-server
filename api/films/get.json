@@ -1,34 +1,85 @@
 [
-  {
-  "vote_count": 1747,
-  "id": 7453,
-  "video": false,
-  "vote_average": 6.7,
-  "title": "The Hitchhiker's Guide to the Galaxy",
-  "popularity": 14.303999,
-  "poster_path": "\/fOb4cJMhnZ11BoHNUii3Vcfo3XU.jpg",
-  "original_language": "en",
-  "original_title": "The Hitchhiker's Guide to the Galaxy",
-  "genre_ids": [12, 35, 10751, 878],
-  "backdrop_path": "\/kMf3ewax3ZeiSESaPQxBAReQzDD.jpg",
-  "adult": false,
-  "overview": "Mere seconds before the Earth is to be demolished by an alien construction crew, Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of \"The Hitchhiker's Guide to the Galaxy.\"",
-  "release_date": "2005-04-28"
-},
-  {
-    "vote_count": 0,
-    "id": 435565,
-    "video": false,
-    "vote_average": 0,
-    "title": "Inside 'The Hitchhiker's Guide to the Galaxy'",
-    "popularity": 1.017991,
-    "poster_path": "\/7qW3U3BIY2RCB4QUPkoSAWfoAdS.jpg",
-    "original_language": "en",
-    "original_title": "Inside 'The Hitchhiker's Guide to the Galaxy'",
-    "genre_ids": [878, 99],
-    "backdrop_path": null,
-    "adult": false,
-    "overview": "Documentary charting the rise of The Hitchhiker's Guide to the Galaxy from its original guise as a radio series through to becoming a Hollywood blockbuster.",
-    "release_date": "2005-07-05"
-  }
+    {
+        "adult": false,
+        "backdrop_path": "/kMf3ewax3ZeiSESaPQxBAReQzDD.jpg",
+        "belongs_to_collection": null,
+        "budget": 50000000,
+        "genres": [
+            {
+                "id": 12,
+                "name": "Adventure"
+            },
+            {
+                "id": 35,
+                "name": "Comedy"
+            },
+            {
+                "id": 10751,
+                "name": "Family"
+            },
+            {
+                "id": 878,
+                "name": "Science Fiction"
+            }
+        ],
+        "homepage": null,
+        "id": 7453,
+        "imdb_id": "tt0371724",
+        "original_language": "en",
+        "original_title": "The Hitchhiker's Guide to the Galaxy",
+        "overview": "Mere seconds before the Earth is to be demolished by an alien construction crew, Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of \"The Hitchhiker's Guide to the Galaxy.\"",
+        "popularity": 13.303999,
+        "poster_path": "/fOb4cJMhnZ11BoHNUii3Vcfo3XU.jpg",
+        "production_companies": [
+            {
+                "id": 158,
+                "logo_path": "/6SHlNIype9zmyEMRsBtoueUtLsq.png",
+                "name": "Spyglass Entertainment",
+                "origin_country": "US"
+            },
+            {
+                "id": 2242,
+                "logo_path": null,
+                "name": "Everyman Pictures",
+                "origin_country": "US"
+            },
+            {
+                "id": 2243,
+                "logo_path": null,
+                "name": "Hammer & Tongs",
+                "origin_country": ""
+            },
+            {
+                "id": 9195,
+                "logo_path": "/ou5BUbtulr6tIt699q6xJiEQTR9.png",
+                "name": "Touchstone Pictures",
+                "origin_country": ""
+            }
+        ],
+        "production_countries": [
+            {
+                "iso_3166_1": "GB",
+                "name": "United Kingdom"
+            },
+            {
+                "iso_3166_1": "US",
+                "name": "United States of America"
+            }
+        ],
+        "release_date": "2005-04-28",
+        "revenue": 104478416,
+        "runtime": 109,
+        "spoken_languages": [
+            {
+                "iso_639_1": "en",
+                "name": "English"
+            }
+        ],
+        "status": "Released",
+        "tagline": "Don't leave Earth without it.",
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 1790
+    }
 ]
